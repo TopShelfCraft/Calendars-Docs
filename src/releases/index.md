@@ -8,6 +8,10 @@ order: 0
 
 - Fixed a bug where parameters passed as an Array to `EventCriteriaModel` were ignored. (How rude.)
 - Implemented the `repeats` and `repeatsForever` parameters on `EventCriteriaModel`.
+- Added a resource call to ensure that Timepicker JS loads before Calendars JS, to prevent an obscure error that might occur if Calendars fields are rendered before any other date/time inputs.
+- Added a temporary workaround for an issue where Schedule Rules Editor components aren't rendered for newly created Commerce Variants.
+- Updated Knockout JS library to v3.4.0.
+- Fixed some typos in comments.
 
 ### 1.1.6
 
