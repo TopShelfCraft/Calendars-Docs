@@ -25,7 +25,7 @@ title: Craft Calendars Documentation
 	</ul>
 
 	<p class="buttons">
-		<a href="https://topshelfcraft.com/calendars" class="button">Get Craft Calendars</a>
+		<a href="https://topshelfcraft.com/purchase/calendars" class="button">Buy Craft Calendars</a>
 	</p>
 
 	<ul id="social">
