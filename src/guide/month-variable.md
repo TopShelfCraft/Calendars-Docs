@@ -174,7 +174,7 @@ You can use this example template as a starting point to create a table-based ca
     {#  Then we loop through the `weeks` and `days`  #}
     {#  to output the events.                        #}
  
-    {% for week in mmonth.weeks %}
+    {% for week in month.weeks %}
     
     <tr>
     
